@@ -7,6 +7,13 @@ Site: www.mariuszgalus.com
 
 Note: This is the front-end code to a cross-domain data persistance solution with specific applications.
 
+EDIT: Using the new l2inobutton.js (less clicks, gets work done faster) 
+it is recommended to use some sort of mod, addon, 
+extension for your browser in order to force all popup windows into tabs.
+This allows for quick access to the bookmarklet for chrome.
+I would say this is a semi-dependency and my favorite extension is called 'one window'
+download 'One Window' at https://chrome.google.com/webstore/detail/one-window/papnlnnbddhckngcblfljaelgceffobn
+
 Usage: ( http://clipget-64labs.aws.af.cm/bookmarklet )
 
 To make use of this l2i.js, you must have a linkedin and an insightly account.
